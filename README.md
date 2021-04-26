@@ -6,7 +6,7 @@ golang实现的时间轮
 
 ### 用途
 1. 延迟任务
-2. 心跳检测
+2. 心跳失效检测
 
 ### 单元测试
 go test timewheel_test.go -v
